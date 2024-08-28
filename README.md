@@ -1,4 +1,4 @@
-🔧Herramientas y tecnologias utilizadas:
+Herramientas y tecnologias utilizadas:
 
 MySQL Workbench
 
